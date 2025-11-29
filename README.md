@@ -1,2 +1,2 @@
 # xiao-mantou-games
-Little games our favorite mantou
+Little games by our favorite mantou
